@@ -1,0 +1,35 @@
+.body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.fullname{
+  
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 30px;
+ font-style: italic;
+
+ 
+ 
+}
+ .profession{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 30px;
+ font-style: italic;
+
+ }
+ .profession>h1{
+  color: blue;
+ }
+ .bio{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 30px;
+ font-style: italic;
+ }
+ .bio>h1{
+  color: blue;
+ }
+ .photo{
+  width: 300px;
+  height: 300px;
+ }
